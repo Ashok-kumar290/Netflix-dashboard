@@ -26,7 +26,7 @@ The aim is to identify trends in **content production, genre popularity, country
 - Kids’ and family-friendly content has increased to attract diverse age groups.  
 
 ## 📸 Dashboard Preview
-*(Insert screenshot here once uploaded, e.g. `![Netflix Dashboard](NetFlix.png)`)*
+![Netflix_Dashboard](Netflix.png)
   
 ---
 
